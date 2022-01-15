@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bracketleft" format="2">
+	<advance width="278"/>
+	<unicode hex="005B"/>
+	<outline>
+		<contour>
+			<point x="50" y="680" type="line"/>
+			<point x="50" y="-200" type="line"/>
+			<point x="124" y="-200" type="line"/>
+			<point x="124" y="680" type="line"/>
+		</contour>
+		<contour>
+			<point x="113" y="680" type="line"/>
+			<point x="113" y="615" type="line"/>
+			<point x="258" y="615" type="line"/>
+			<point x="258" y="680" type="line"/>
+		</contour>
+		<contour>
+			<point x="113" y="-135" type="line"/>
+			<point x="113" y="-200" type="line"/>
+			<point x="258" y="-200" type="line"/>
+			<point x="258" y="-135" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>n</string>
+		</dict>
+	</lib>
+</glyph>

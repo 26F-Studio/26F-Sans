@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="parenright" format="2">
+	<advance width="243"/>
+	<unicode hex="0029"/>
+	<outline>
+		<contour>
+			<point x="79" y="680" type="curve"/>
+			<point x="10" y="680" type="line"/>
+			<point x="172" y="386"/>
+			<point x="172" y="94"/>
+			<point x="10" y="-200" type="curve"/>
+			<point x="79" y="-200" type="line"/>
+			<point x="249" y="106"/>
+			<point x="249" y="374"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>O</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,107 @@
+@MMK_L_A = [A];
+@MMK_L_B = [B];
+@MMK_L_C = [C];
+@MMK_L_E = [E];
+@MMK_L_F = [F];
+@MMK_L_G = [G];
+@MMK_L_H = [H I J M N Nacute Ncaron uni0145 Ntilde];
+@MMK_L_K = [K];
+@MMK_L_L = [L];
+@MMK_L_O = [D O];
+@MMK_L_P = [P];
+@MMK_L_Q = [Q];
+@MMK_L_R = [R];
+@MMK_L_S = [S];
+@MMK_L_T = [T];
+@MMK_L_U = [U];
+@MMK_L_V = [V];
+@MMK_L_W = [W];
+@MMK_L_X = [X];
+@MMK_L_Y = [Y];
+@MMK_L_Z = [Z];
+@MMK_L_c = [c];
+@MMK_L_e = [e];
+@MMK_L_f = [f];
+@MMK_L_k = [k];
+@MMK_L_l = [d g i j l q];
+@MMK_L_n = [a h m n u];
+@MMK_L_o = [b o p];
+@MMK_L_r = [r];
+@MMK_L_s = [s];
+@MMK_L_t = [t];
+@MMK_L_v = [v];
+@MMK_L_w = [w];
+@MMK_L_x = [x];
+@MMK_L_y = [y];
+@MMK_L_z = [z];
+@MMK_R_A = [A];
+@MMK_R_H = [B D E F H I K L M N Nacute Ncaron uni0145 Ntilde P R];
+@MMK_R_J = [J];
+@MMK_R_O = [C G O Q];
+@MMK_R_S = [S];
+@MMK_R_T = [T];
+@MMK_R_U = [U];
+@MMK_R_V = [V];
+@MMK_R_W = [W];
+@MMK_R_X = [X];
+@MMK_R_Y = [Y];
+@MMK_R_a = [a];
+@MMK_R_f = [f];
+@MMK_R_j = [j];
+@MMK_R_l = [b h i k l p r];
+@MMK_R_n = [m n u];
+@MMK_R_o = [c d e g o q];
+@MMK_R_s = [s];
+@MMK_R_t = [t];
+@MMK_R_v = [v];
+@MMK_R_w = [w];
+@MMK_R_x = [x];
+@MMK_R_y = [y];
+@MMK_R_z = [z];
+	markClass [uni0308] <anchor 250 500> @mark_top;
+	markClass [uni0307] <anchor 250 500> @mark_top;
+	markClass [gravecomb] <anchor 250 500> @mark_top;
+	markClass [acutecomb] <anchor 250 500> @mark_top;
+	markClass [uni0302] <anchor 250 500> @mark_top;
+	markClass [uni030C] <anchor 250 500> @mark_top;
+	markClass [uni0306] <anchor 250 500> @mark_top;
+	markClass [uni030A] <anchor 250 500> @mark_top;
+	markClass [tildecomb] <anchor 1 500> @mark_top;
+	markClass [uni0304] <anchor 250 500> @mark_top;
+	markClass [uni0327] <anchor 249 0> @mark_bottom;
+### prefix:-1: ###
+### open prefix '' ###
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+### close prefix '' ###
+
+
+### feature:-1:mkmk ###
+feature mkmk {
+### open feature 'mkmk' ###
+	lookup mkmk_DFLT_bottom {
+		lookupflag UseMarkFilteringSet @mark_bottom;
+		pos mark uni0327 <anchor 249 -208> mark @mark_bottom;
+	} mkmk_DFLT_bottom;
+	lookup mkmk_DFLT_top {
+		lookupflag UseMarkFilteringSet @mark_top;
+		pos mark uni0308 <anchor 250 688> mark @mark_top;
+		pos mark uni0307 <anchor 250 688> mark @mark_top;
+		pos mark gravecomb <anchor 250 712> mark @mark_top;
+		pos mark acutecomb <anchor 250 712> mark @mark_top;
+		pos mark uni0302 <anchor 250 712> mark @mark_top;
+		pos mark uni030C <anchor 250 712> mark @mark_top;
+		pos mark uni0306 <anchor 250 712> mark @mark_top;
+		pos mark uni030A <anchor 250 726> mark @mark_top;
+		pos mark tildecomb <anchor 1 670> mark @mark_top;
+		pos mark uni0304 <anchor 250 644> mark @mark_top;
+	} mkmk_DFLT_top;
+### close feature 'mkmk' ###
+} mkmk;
+
+table GDEF {
+ GlyphClassDef ,# Base 
+ , # Liga 
+ [uni0308 uni0307 gravecomb acutecomb uni030B uni030C.alt uni0302 uni030C uni0306 uni030A tildecomb uni0304 uni0312 uni0326 uni0327 uni0328], # Mark 
+ ;
+ } GDEF;

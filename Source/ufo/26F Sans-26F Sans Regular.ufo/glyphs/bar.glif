@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bar" format="2">
+	<advance width="174"/>
+	<unicode hex="007C"/>
+	<outline>
+		<contour>
+			<point x="50" y="680" type="line"/>
+			<point x="50" y="-200" type="line"/>
+			<point x="124" y="-200" type="line"/>
+			<point x="124" y="680" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>n</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>n</string>
+		</dict>
+	</lib>
+</glyph>
