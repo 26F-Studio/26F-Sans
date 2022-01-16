@@ -18,6 +18,8 @@
 
 ## 安装
 
+请从Release中下载最新的正式版字体. 你也可以从GitHub Actions中下载最新的预览.
+
 1. 下载并解压26F Sans.
 
 ### macOS
@@ -50,6 +52,8 @@
 ## 许可
 
 26F Sans使用[SIL开放字体许可证, V1.1](license.txt). 您可以免费使用、修改、重新分发编译后的字体和源文件, 并且不需要提及26F Studio.
+
+本仓库中 [build.yml](.github/workflows/build.yml) 是由 [JetBrains Mono仓库](https://github.com/JetBrains/JetBrainsMono/blob/master/.github/workflows/build-fonts.yml) 改编而来的, 源文件使用 [Apache 2.0 协议](https://www.apache.org/licenses/LICENSE-2.0) 进行授权.
 
 ## Credit
 

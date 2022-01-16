@@ -19,6 +19,8 @@ This repository stores the theme font of 26F Studio, the 26F Sans. We plan to us
 
 ## Install 26F Sans to your device
 
+Please download the stable build of the font in the latest Release. You can always find the latest preview version (beta) in GitHub Actions.
+
 1. Download and extract 26F Sans to your computer.
 
 ### macOS
@@ -44,6 +46,8 @@ The source files are located in the `Source` folder. To build the fonts from the
 
 ## License
 26F Sans is under a [SIL Open Font License, Version 1.1](license.txt). You can use, modify, redistribute the compiled fonts and the source files free of charge and you do not need to attribute to 26F Studio (But we would really appreciate that if you do so).
+
+The [build.yml](.github/workflows/build.yml) files was adapted from the [JetBrains Mono Repository](https://github.com/JetBrains/JetBrainsMono/blob/master/.github/workflows/build-fonts.yml), which was under a [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
 
 ## Credits
 **Type Designer**
