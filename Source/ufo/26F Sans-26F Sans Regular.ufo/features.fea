@@ -4,7 +4,7 @@
 @MMK_L_E = [E];
 @MMK_L_F = [F];
 @MMK_L_G = [G];
-@MMK_L_H = [H I J M N Nacute Ncaron uni0145 Ntilde];
+@MMK_L_H = [H I J M N Nacute Ncaron uni0145 Ntilde I.001 J.001];
 @MMK_L_K = [K];
 @MMK_L_L = [L];
 @MMK_L_O = [D O];
@@ -23,7 +23,7 @@
 @MMK_L_e = [e];
 @MMK_L_f = [f];
 @MMK_L_k = [k];
-@MMK_L_l = [d g i j l q];
+@MMK_L_l = [d g i j l q g.double];
 @MMK_L_n = [a h m n u];
 @MMK_L_o = [b o p];
 @MMK_L_r = [r];
@@ -35,8 +35,8 @@
 @MMK_L_y = [y];
 @MMK_L_z = [z];
 @MMK_R_A = [A];
-@MMK_R_H = [B D E F H I K L M N Nacute Ncaron uni0145 Ntilde P R];
-@MMK_R_J = [J];
+@MMK_R_H = [B D E F H I K L M N Nacute Ncaron uni0145 Ntilde P R I.001];
+@MMK_R_J = [J J.001];
 @MMK_R_O = [C G O Q];
 @MMK_R_S = [S];
 @MMK_R_T = [T];
@@ -50,7 +50,7 @@
 @MMK_R_j = [j];
 @MMK_R_l = [b h i k l p r];
 @MMK_R_n = [m n u];
-@MMK_R_o = [c d e g o q];
+@MMK_R_o = [c d e g o q g.double];
 @MMK_R_s = [s];
 @MMK_R_t = [t];
 @MMK_R_v = [v];

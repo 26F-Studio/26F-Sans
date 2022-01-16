@@ -32,11 +32,11 @@
 	<key>com.schriftgestaltung.fontMaster.userData</key>
 	<dict>
 		<key>GSOffsetHorizontal</key>
-		<integer>43</integer>
+		<integer>45</integer>
 		<key>GSOffsetMakeStroke</key>
 		<integer>1</integer>
 		<key>GSOffsetVertical</key>
-		<integer>35</integer>
+		<integer>38</integer>
 	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>m01</string>
@@ -181,6 +181,8 @@
 		<string>Zacute</string>
 		<string>Zcaron</string>
 		<string>Zdotaccent</string>
+		<string>I.001</string>
+		<string>J.001</string>
 		<string>a</string>
 		<string>aacute</string>
 		<string>abreve</string>
@@ -317,6 +319,7 @@
 		<string>zacute</string>
 		<string>zcaron</string>
 		<string>zdotaccent</string>
+		<string>g.double</string>
 		<string>a.single</string>
 		<string>zero</string>
 		<string>one</string>
