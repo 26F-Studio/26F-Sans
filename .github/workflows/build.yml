@@ -3,6 +3,8 @@ name: Glyphs Develop CI
 on:
   push:
     branches: [ main ]
+    paths:
+    - Source/**
   pull_request:
     branches: [ main ]
 
