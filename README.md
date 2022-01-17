@@ -58,9 +58,11 @@ You can either build the fonts from Glyphs or other font editing programs direct
 4. Find the compiled fonts in the `fonts` folder.
 
 ## License
-26F Sans is under a [SIL Open Font License, Version 1.1](license.txt). You can use, modify, redistribute the compiled fonts and the source files free of charge and you do not need to attribute to 26F Studio (But we would really appreciate that if you do so).
+26F Sans is under a [SIL Open Font License, Version 1.1](OFL.txt). You can use, modify, redistribute the compiled fonts and the source files free of charge and you do not need to attribute to 26F Studio (But we would really appreciate that if you do so).
 
 The [build.yml](.github/workflows/build.yml) files was adapted from the [JetBrains Mono Repository](https://github.com/JetBrains/JetBrainsMono/blob/master/.github/workflows/build-fonts.yml), which was under a [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
+
+The other part of the source code in this repository is under a [MIT License](MIT.txt).
 
 ## Credits
 **Type Designer**
