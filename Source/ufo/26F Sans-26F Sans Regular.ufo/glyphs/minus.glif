@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="minus" format="2">
-	<advance width="600"/>
+	<advance width="477"/>
 	<unicode hex="2212"/>
 	<outline>
+		<contour>
+			<point x="50" y="285" type="line"/>
+			<point x="427" y="285" type="line"/>
+			<point x="427" y="363" type="line"/>
+			<point x="50" y="363" type="line"/>
+		</contour>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>hyphen</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>hyphen</string>
+		</dict>
+	</lib>
 </glyph>

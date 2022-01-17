@@ -25,9 +25,9 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>=x+5</string>
+			<string>X</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>=x+5</string>
+			<string>X</string>
 		</dict>
 	</lib>
 </glyph>
