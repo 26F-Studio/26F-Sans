@@ -33,16 +33,29 @@ Please download the stable build of the font in the latest Release. You can alwa
 ### Windows
 2. Select all font files in the folder, right-click any of them, then pick “Install” from the menu.
 
-## Building from source
-The source files are located in the `Source` folder. To build the fonts from the source,
+## Editing
+The source files are located in the `Source` folder. To open them,
 
 ### macOS
 1. Download and install the Glyphs app (if you have’t done so).
 2. Open the `.glyphs` files using Glyphs.
-3. Press `Command-E` and select which format you want to export.
 
 ### Other platforms
 1. Locate the `.ufo` (Universal Font Object) files and open them using a font editing app on your platform.
+
+## Build from source
+You can either build the fonts from Glyphs or other font editing programs directly, or you can choose to build them in the command line use the Google Font Tools (`gftools`). Notice that you have to install Python 3.7 or later to use `gftools`.
+
+1. Install `gftools` by executing the following command:
+   ```
+   $ pip install gftools
+   ```
+2. Navigate to `../Source/glyphs/` in the command line.
+3. Execute the following command:
+   ```
+   gftools builder config.yaml
+   ```
+4. Find the compiled fonts in the `fonts` folder.
 
 ## License
 26F Sans is under a [SIL Open Font License, Version 1.1](license.txt). You can use, modify, redistribute the compiled fonts and the source files free of charge and you do not need to attribute to 26F Studio (But we would really appreciate that if you do so).

@@ -35,19 +35,33 @@
 
 2. 选择文件夹中的所有字体文件, 右键单击, 然后从菜单中选择 “安装”.
 
-## 从源码构建
+## 编辑
 
-26F Sans的源文件位于`Source`目录中. 要从源码构建字体,
+26F Sans的源文件位于`Source`目录中. 要编辑这些文件,
 
 ### macOS
 
 1. 下载并安装Glyphs.
 2. 使用Glyphs打开`.glyphs`'文件.
-3. 按下`Command-E`并选择要导出的格式.
 
 ### 其他平台
 
 1. 使用您平台上的字体编辑软件打开`.ufo`文件.
+
+## 从源码构建
+您可以直接使用Glyphs或其他字体编辑软件构建, 或者使用Google Font Tools (`gftools`)在命令行中构建. 您需要安装Python 3.7来使用`gftools`.
+
+1. 在命令行中执行以下命令来安装`gftools`:
+   ```
+   $ pip install gftools
+   ```
+2. 在命令行中进入这个目录:  `../Source/glyphs/`,
+3. 执行以下命令:
+   ```
+   gftools builder config.yaml
+   ```
+4. 在 `fonts` 文件夹找到构建完成的字体.
+
 
 ## 许可
 
