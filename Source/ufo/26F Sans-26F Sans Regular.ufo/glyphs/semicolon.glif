@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="semicolon" format="2">
-	<advance width="197"/>
+	<advance width="185"/>
 	<unicode hex="003B"/>
 	<outline>
 		<component base="comma"/>
 		<component base="period" xOffset="14" yOffset="414"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>comma</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>comma</string>
+		</dict>
+	</lib>
 </glyph>

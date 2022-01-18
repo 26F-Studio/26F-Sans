@@ -84,10 +84,16 @@
 	<string>H_circumflex.glif</string>
 	<key>I</key>
 	<string>I_.glif</string>
-	<key>I.001</key>
-	<string>I_.001.glif</string>
+	<key>I.slab</key>
+	<string>I_.slab.glif</string>
 	<key>IJ</key>
 	<string>I_J_.glif</string>
+	<key>IJ.ijslab</key>
+	<string>I_J_.ijslab.glif</string>
+	<key>IJ.islab</key>
+	<string>I_J_.islab.glif</string>
+	<key>IJ.jslab</key>
+	<string>I_J_.jslab.glif</string>
 	<key>Iacute</key>
 	<string>I_acute.glif</string>
 	<key>Icircumflex</key>
@@ -106,8 +112,8 @@
 	<string>I_tilde.glif</string>
 	<key>J</key>
 	<string>J_.glif</string>
-	<key>J.001</key>
-	<string>J_.001.glif</string>
+	<key>J.slab</key>
+	<string>J_.slab.glif</string>
 	<key>Jcircumflex</key>
 	<string>J_circumflex.glif</string>
 	<key>K</key>
@@ -248,8 +254,6 @@
 	<string>adieresis.glif</string>
 	<key>ae</key>
 	<string>ae.glif</string>
-	<key>ae.001</key>
-	<string>ae.001.glif</string>
 	<key>agrave</key>
 	<string>agrave.glif</string>
 	<key>amacron</key>
@@ -370,6 +374,8 @@
 	<string>egrave.glif</string>
 	<key>eight</key>
 	<string>eight.glif</string>
+	<key>eight.osf</key>
+	<string>eight.osf.glif</string>
 	<key>ellipsis</key>
 	<string>ellipsis.glif</string>
 	<key>emacron</key>
@@ -392,8 +398,14 @@
 	<string>f.glif</string>
 	<key>five</key>
 	<string>five.glif</string>
+	<key>five.osf</key>
+	<string>five.osf.glif</string>
 	<key>four</key>
 	<string>four.glif</string>
+	<key>four.open</key>
+	<string>four.open.glif</string>
+	<key>four.osf</key>
+	<string>four.osf.glif</string>
 	<key>g</key>
 	<string>g.glif</string>
 	<key>g.double</key>
@@ -496,6 +508,8 @@
 	<string>ncaron.glif</string>
 	<key>nine</key>
 	<string>nine.glif</string>
+	<key>nine.osf</key>
+	<string>nine.osf.glif</string>
 	<key>notequal</key>
 	<string>notequal.glif</string>
 	<key>ntilde</key>
@@ -524,6 +538,10 @@
 	<string>one.glif</string>
 	<key>one.base</key>
 	<string>one.base.glif</string>
+	<key>one.osf</key>
+	<string>one.osf.glif</string>
+	<key>one.osf.001</key>
+	<string>one.osf.001.glif</string>
 	<key>oslash</key>
 	<string>oslash.glif</string>
 	<key>otilde</key>
@@ -602,8 +620,12 @@
 	<string>semicolon.glif</string>
 	<key>seven</key>
 	<string>seven.glif</string>
+	<key>seven.osf</key>
+	<string>seven.osf.glif</string>
 	<key>six</key>
 	<string>six.glif</string>
+	<key>six.osf</key>
+	<string>six.osf.glif</string>
 	<key>slash</key>
 	<string>slash.glif</string>
 	<key>space</key>
@@ -620,6 +642,8 @@
 	<string>thorn.glif</string>
 	<key>three</key>
 	<string>three.glif</string>
+	<key>three.osf</key>
+	<string>three.osf.glif</string>
 	<key>tilde</key>
 	<string>tilde.glif</string>
 	<key>tildecomb</key>
@@ -628,6 +652,8 @@
 	<string>trademark.glif</string>
 	<key>two</key>
 	<string>two.glif</string>
+	<key>two.osf</key>
+	<string>two.osf.glif</string>
 	<key>u</key>
 	<string>u.glif</string>
 	<key>uacute</key>
@@ -844,6 +870,12 @@
 	<string>zero.glif</string>
 	<key>zero.dotted</key>
 	<string>zero.dotted.glif</string>
+	<key>zero.osf</key>
+	<string>zero.osf.glif</string>
+	<key>zero.osf.001</key>
+	<string>zero.osf.001.glif</string>
+	<key>zero.osf.002</key>
+	<string>zero.osf.002.glif</string>
 	<key>zero.slashed</key>
 	<string>zero.slashed.glif</string>
 </dict>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.osf.001" format="2">
+	<advance width="432"/>
+	<outline>
+		<component base="one.osf"/>
+		<contour>
+			<point x="20" y="0" type="line"/>
+			<point x="412" y="0" type="line"/>
+			<point x="412" y="68" type="line"/>
+			<point x="20" y="68" type="line"/>
+		</contour>
+	</outline>
+</glyph>

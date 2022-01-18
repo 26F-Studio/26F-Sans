@@ -37,8 +37,8 @@
 		<string>Ncaron</string>
 		<string>uni0145</string>
 		<string>Ntilde</string>
-		<string>I.001</string>
-		<string>J.001</string>
+		<string>I.slab</string>
+		<string>J.slab</string>
 	</array>
 	<key>public.kern1.K</key>
 	<array>
@@ -118,6 +118,7 @@
 		<string>d</string>
 		<string>g</string>
 		<string>i</string>
+		<string>ij</string>
 		<string>j</string>
 		<string>l</string>
 		<string>q</string>
@@ -191,12 +192,12 @@
 		<string>Ntilde</string>
 		<string>P</string>
 		<string>R</string>
-		<string>I.001</string>
+		<string>I.slab</string>
 	</array>
 	<key>public.kern2.J</key>
 	<array>
 		<string>J</string>
-		<string>J.001</string>
+		<string>J.slab</string>
 	</array>
 	<key>public.kern2.O</key>
 	<array>
@@ -240,6 +241,10 @@
 	<key>public.kern2.f</key>
 	<array>
 		<string>f</string>
+	</array>
+	<key>public.kern2.i</key>
+	<array>
+		<string>ij</string>
 	</array>
 	<key>public.kern2.j</key>
 	<array>

@@ -31,12 +31,14 @@
 	</dict>
 	<key>com.schriftgestaltung.fontMaster.userData</key>
 	<dict>
+		<key>GSOffsetCapStyle</key>
+		<integer>4</integer>
 		<key>GSOffsetHorizontal</key>
-		<integer>45</integer>
+		<real>43.0</real>
 		<key>GSOffsetMakeStroke</key>
 		<integer>1</integer>
 		<key>GSOffsetVertical</key>
-		<integer>38</integer>
+		<real>36.0</real>
 	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>m01</string>
@@ -181,8 +183,11 @@
 		<string>Zacute</string>
 		<string>Zcaron</string>
 		<string>Zdotaccent</string>
-		<string>I.001</string>
-		<string>J.001</string>
+		<string>IJ.ijslab</string>
+		<string>IJ.islab</string>
+		<string>IJ.jslab</string>
+		<string>I.slab</string>
+		<string>J.slab</string>
 		<string>a</string>
 		<string>aacute</string>
 		<string>abreve</string>
@@ -319,7 +324,6 @@
 		<string>zacute</string>
 		<string>zcaron</string>
 		<string>zdotaccent</string>
-		<string>ae.001</string>
 		<string>g.double</string>
 		<string>a.single</string>
 		<string>zero</string>
@@ -334,7 +338,21 @@
 		<string>nine</string>
 		<string>one.base</string>
 		<string>zero.dotted</string>
+		<string>four.open</string>
+		<string>zero.osf</string>
+		<string>one.osf</string>
+		<string>two.osf</string>
+		<string>three.osf</string>
+		<string>four.osf</string>
+		<string>five.osf</string>
+		<string>six.osf</string>
+		<string>seven.osf</string>
+		<string>eight.osf</string>
+		<string>nine.osf</string>
 		<string>zero.slashed</string>
+		<string>zero.osf.001</string>
+		<string>one.osf.001</string>
+		<string>zero.osf.002</string>
 		<string>uni205F</string>
 		<string>uni2001</string>
 		<string>uni2003</string>

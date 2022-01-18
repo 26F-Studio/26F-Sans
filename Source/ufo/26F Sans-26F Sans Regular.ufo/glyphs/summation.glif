@@ -3,5 +3,20 @@
 	<advance width="600"/>
 	<unicode hex="2211"/>
 	<outline>
+		<contour>
+			<point x="447" y="212" type="line"/>
+			<point x="447" y="268" type="line"/>
+			<point x="198" y="608" type="line"/>
+			<point x="583" y="608" type="line"/>
+			<point x="583" y="680" type="line"/>
+			<point x="96" y="680" type="line"/>
+			<point x="96" y="608" type="line"/>
+			<point x="366" y="240" type="line"/>
+			<point x="96" y="-128" type="line"/>
+			<point x="96" y="-200" type="line"/>
+			<point x="583" y="-200" type="line"/>
+			<point x="583" y="-128" type="line"/>
+			<point x="198" y="-128" type="line"/>
+		</contour>
 	</outline>
 </glyph>

@@ -4,7 +4,7 @@
 @MMK_L_E = [E];
 @MMK_L_F = [F];
 @MMK_L_G = [G];
-@MMK_L_H = [H I J M N Nacute Ncaron uni0145 Ntilde I.001 J.001];
+@MMK_L_H = [H I J M N Nacute Ncaron uni0145 Ntilde I.slab J.slab];
 @MMK_L_K = [K];
 @MMK_L_L = [L];
 @MMK_L_O = [D O];
@@ -23,7 +23,7 @@
 @MMK_L_e = [e];
 @MMK_L_f = [f];
 @MMK_L_k = [k];
-@MMK_L_l = [d g i j l q g.double];
+@MMK_L_l = [d g i ij j l q g.double];
 @MMK_L_n = [a h m n u];
 @MMK_L_o = [b o p];
 @MMK_L_r = [r];
@@ -35,8 +35,8 @@
 @MMK_L_y = [y];
 @MMK_L_z = [z];
 @MMK_R_A = [A];
-@MMK_R_H = [B D E F H I K L M N Nacute Ncaron uni0145 Ntilde P R I.001];
-@MMK_R_J = [J J.001];
+@MMK_R_H = [B D E F H I K L M N Nacute Ncaron uni0145 Ntilde P R I.slab];
+@MMK_R_J = [J J.slab];
 @MMK_R_O = [C G O Q];
 @MMK_R_S = [S];
 @MMK_R_T = [T];
@@ -47,6 +47,7 @@
 @MMK_R_Y = [Y];
 @MMK_R_a = [a];
 @MMK_R_f = [f];
+@MMK_R_i = [ij];
 @MMK_R_j = [j];
 @MMK_R_l = [b h i k l p r];
 @MMK_R_n = [m n u];
@@ -69,11 +70,113 @@
 	markClass [tildecomb] <anchor 1 500> @mark_top;
 	markClass [uni0304] <anchor 250 500> @mark_top;
 	markClass [uni0327] <anchor 249 0> @mark_bottom;
-### prefix:-1: ###
-### open prefix '' ###
+### prefix:-1:Languagesystems ###
+### open prefix 'Languagesystems' ###
 languagesystem DFLT dflt;
+
 languagesystem latn dflt;
-### close prefix '' ###
+languagesystem latn AZE;
+languagesystem latn CRT;
+languagesystem latn KAZ;
+languagesystem latn TAT;
+languagesystem latn TRK;
+languagesystem latn ROM;
+languagesystem latn MOL;
+languagesystem latn NLD;
+### close prefix 'Languagesystems' ###
+
+### feature:0:aalt ###
+feature aalt {
+### open feature 'aalt' ###
+feature locl;
+feature onum;
+feature case;
+### close feature 'aalt' ###
+} aalt;
+
+### feature:1:ccmp ###
+feature ccmp {
+### open feature 'ccmp' ###
+lookup ccmp_Other_1 {
+	@CombiningTopAccents = [acutecomb uni0306 uni030C uni0302 uni0312 uni0308 uni0307 gravecomb uni030B uni0304 uni030A tildecomb];
+	@CombiningNonTopAccents = [uni0327 uni0328];
+	sub [i j]' @CombiningTopAccents by [dotlessi uni0237];
+	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [dotlessi uni0237];
+} ccmp_Other_1;
+### close feature 'ccmp' ###
+} ccmp;
+
+### feature:2:locl ###
+feature locl {
+### open feature 'locl' ###
+lookup locl_latn_0 {
+	script latn;
+	language AZE;
+	sub i by i;
+	language CRT;
+	sub i by i;
+	language KAZ;
+	sub i by i;
+	language TAT;
+	sub i by i;
+	language TRK;
+	sub i by i;
+} locl_latn_0;
+
+lookup locl_latn_1 {
+	script latn;
+	language ROM;
+	sub Scedilla by uni0218;
+	sub scedilla by uni0219;
+	sub uni0162 by uni021A;
+	sub uni0163 by uni021B;
+	language MOL;
+	sub Scedilla by uni0218;
+	sub scedilla by uni0219;
+	sub uni0162 by uni021A;
+	sub uni0163 by uni021B;
+} locl_latn_1;
+
+lookup locl_latn_2 {
+	script latn;
+	language NLD;
+	sub iacute j' by uni006A0301;
+	sub Iacute J' by uni004A0301;
+} locl_latn_2;
+### close feature 'locl' ###
+} locl;
+
+### feature:3:onum ###
+feature onum {
+### open feature 'onum' ###
+sub zero by zero.osf;
+sub one by one.osf;
+sub two by two.osf;
+sub three by three.osf;
+sub four by four.osf;
+sub five by five.osf;
+sub six by six.osf;
+sub seven by seven.osf;
+sub eight by eight.osf;
+sub nine by nine.osf;
+### close feature 'onum' ###
+} onum;
+
+### feature:4:case ###
+feature case {
+### open feature 'case' ###
+sub zero.osf by zero;
+sub one.osf by one;
+sub two.osf by two;
+sub three.osf by three;
+sub four.osf by four;
+sub five.osf by five;
+sub six.osf by six;
+sub seven.osf by seven;
+sub eight.osf by eight;
+sub nine.osf by nine;
+### close feature 'case' ###
+} case;
 
 
 ### feature:-1:mkmk ###

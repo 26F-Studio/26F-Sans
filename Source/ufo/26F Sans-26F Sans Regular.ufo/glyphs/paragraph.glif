@@ -1,7 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="paragraph" format="2">
-	<advance width="600"/>
+	<advance width="531"/>
 	<unicode hex="00B6"/>
 	<outline>
+		<contour>
+			<point x="402" y="680" type="line"/>
+			<point x="402" y="-140" type="line"/>
+			<point x="476" y="-140" type="line"/>
+			<point x="476" y="680" type="line"/>
+		</contour>
+		<contour>
+			<point x="261" y="680" type="line"/>
+			<point x="261" y="-140" type="line"/>
+			<point x="335" y="-140" type="line"/>
+			<point x="335" y="680" type="line"/>
+		</contour>
+		<contour>
+			<point x="252" y="286" type="curve" smooth="yes"/>
+			<point x="275" y="286" type="line"/>
+			<point x="275" y="680" type="line"/>
+			<point x="252" y="680" type="line" smooth="yes"/>
+			<point x="143" y="680"/>
+			<point x="55" y="591"/>
+			<point x="55" y="483" type="curve" smooth="yes"/>
+			<point x="55" y="374"/>
+			<point x="143" y="286"/>
+		</contour>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>N</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>N</string>
+		</dict>
+	</lib>
 </glyph>

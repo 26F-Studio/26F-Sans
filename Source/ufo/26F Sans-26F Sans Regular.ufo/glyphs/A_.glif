@@ -7,12 +7,12 @@
 			<point x="535" y="0" type="line"/>
 			<point x="628" y="0" type="line"/>
 			<point x="384" y="680" type="line"/>
-			<point x="302" y="680" type="line"/>
+			<point x="305" y="680" type="line"/>
 		</contour>
 		<contour>
 			<point x="35" y="0" type="line"/>
 			<point x="128" y="0" type="line"/>
-			<point x="361" y="680" type="line"/>
+			<point x="358" y="680" type="line"/>
 			<point x="279" y="680" type="line"/>
 		</contour>
 		<contour>

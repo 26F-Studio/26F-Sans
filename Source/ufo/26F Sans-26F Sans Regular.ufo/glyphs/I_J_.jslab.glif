@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="IJ" format="2">
+<glyph name="IJ.jslab" format="2">
 	<advance width="535"/>
-	<unicode hex="0132"/>
 	<outline>
 		<contour>
 			<point x="55" y="680" type="line"/>
@@ -26,6 +25,12 @@
 			<point x="56" y="179" type="line"/>
 			<point x="56" y="54"/>
 			<point x="146" y="-15"/>
+		</contour>
+		<contour>
+			<point x="255" y="608" type="line"/>
+			<point x="438" y="608" type="line"/>
+			<point x="438" y="680" type="line"/>
+			<point x="255" y="680" type="line"/>
 		</contour>
 	</outline>
 	<lib>

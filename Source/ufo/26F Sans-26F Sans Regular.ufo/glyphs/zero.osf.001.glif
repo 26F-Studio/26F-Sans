@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero.osf.001" format="2">
+	<advance width="566"/>
+	<outline>
+		<contour>
+			<point x="461" y="465" type="line"/>
+			<point x="55" y="159" type="line"/>
+			<point x="97" y="104" type="line"/>
+			<point x="503" y="410" type="line"/>
+		</contour>
+		<component base="zero.osf"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>o</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>o</string>
+		</dict>
+	</lib>
+</glyph>
