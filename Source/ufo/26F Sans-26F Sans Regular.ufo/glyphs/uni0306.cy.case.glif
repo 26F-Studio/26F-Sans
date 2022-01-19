@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0306.cy.case" format="2">
+	<advance width="0"/>
+	<anchor x="250" y="680" name="_top"/>
+	<outline>
+		<component base="uni0306.case" yOffset="-27"/>
+	</outline>
+</glyph>

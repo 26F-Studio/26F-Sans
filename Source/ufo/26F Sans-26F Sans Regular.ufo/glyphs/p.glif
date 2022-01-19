@@ -2,10 +2,14 @@
 <glyph name="p" format="2">
 	<advance width="543"/>
 	<unicode hex="0070"/>
+	<anchor x="280" y="0" name="bottom"/>
+	<anchor x="281" y="500" name="top"/>
 	<outline>
 		<contour>
 			<point x="50" y="500" type="line"/>
-			<point x="132" y="500" type="line"/>
+			<point x="128" y="500" type="line"/>
+			<point x="128" y="325" type="line"/>
+			<point x="132" y="320" type="line"/>
 			<point x="132" y="-200" type="line"/>
 			<point x="50" y="-200" type="line"/>
 		</contour>

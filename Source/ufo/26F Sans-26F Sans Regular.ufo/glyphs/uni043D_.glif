@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni043D" format="2">
+	<advance width="532"/>
+	<unicode hex="043D"/>
+	<outline>
+		<contour>
+			<point x="50" y="500" type="line"/>
+			<point x="50" y="0" type="line"/>
+			<point x="132" y="0" type="line"/>
+			<point x="132" y="500" type="line"/>
+		</contour>
+		<contour>
+			<point x="400" y="500" type="line"/>
+			<point x="400" y="0" type="line"/>
+			<point x="482" y="0" type="line"/>
+			<point x="482" y="500" type="line"/>
+		</contour>
+		<contour>
+			<point x="80" y="215" type="line"/>
+			<point x="438" y="215" type="line"/>
+			<point x="438" y="285" type="line"/>
+			<point x="80" y="285" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>i</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>i</string>
+		</dict>
+	</lib>
+</glyph>

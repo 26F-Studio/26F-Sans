@@ -2,6 +2,9 @@
 <glyph name="uni0312" format="2">
 	<advance width="0"/>
 	<unicode hex="0312"/>
+	<anchor x="213" y="511" name="_top"/>
+	<anchor x="250" y="761" name="top"/>
 	<outline>
+		<component base="comma" xScale="-1" yScale="-1" xOffset="336" yOffset="658"/>
 	</outline>
 </glyph>

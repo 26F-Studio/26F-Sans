@@ -31,14 +31,12 @@
 	</dict>
 	<key>com.schriftgestaltung.fontMaster.userData</key>
 	<dict>
-		<key>GSOffsetCapStyle</key>
-		<integer>4</integer>
 		<key>GSOffsetHorizontal</key>
-		<real>43.0</real>
+		<integer>30</integer>
 		<key>GSOffsetMakeStroke</key>
 		<integer>1</integer>
 		<key>GSOffsetVertical</key>
-		<real>36.0</real>
+		<integer>25</integer>
 	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>m01</string>
@@ -326,6 +324,72 @@
 		<string>zdotaccent</string>
 		<string>g.double</string>
 		<string>a.single</string>
+		<string>uni0410</string>
+		<string>uni0411</string>
+		<string>uni0412</string>
+		<string>uni0413</string>
+		<string>uni0414</string>
+		<string>uni0415</string>
+		<string>uni0401</string>
+		<string>uni0416</string>
+		<string>uni0417</string>
+		<string>uni0418</string>
+		<string>uni0419</string>
+		<string>uni041A</string>
+		<string>uni041B</string>
+		<string>uni041C</string>
+		<string>uni041D</string>
+		<string>uni041E</string>
+		<string>uni041F</string>
+		<string>uni0420</string>
+		<string>uni0421</string>
+		<string>uni0422</string>
+		<string>uni0423</string>
+		<string>uni0424</string>
+		<string>uni0425</string>
+		<string>uni0427</string>
+		<string>uni0426</string>
+		<string>uni0428</string>
+		<string>uni0429</string>
+		<string>uni042C</string>
+		<string>uni042B</string>
+		<string>uni042A</string>
+		<string>uni042D</string>
+		<string>uni042E</string>
+		<string>uni042F</string>
+		<string>uni0430</string>
+		<string>uni0431</string>
+		<string>uni0432</string>
+		<string>uni0433</string>
+		<string>uni0434</string>
+		<string>uni0435</string>
+		<string>uni0451</string>
+		<string>uni0436</string>
+		<string>uni0437</string>
+		<string>uni0438</string>
+		<string>uni0439</string>
+		<string>uni043A</string>
+		<string>uni043B</string>
+		<string>uni043C</string>
+		<string>uni043D</string>
+		<string>uni043E</string>
+		<string>uni043F</string>
+		<string>uni0440</string>
+		<string>uni0441</string>
+		<string>uni0442</string>
+		<string>uni0443</string>
+		<string>uni0444</string>
+		<string>uni0445</string>
+		<string>uni0447</string>
+		<string>uni0446</string>
+		<string>uni0448</string>
+		<string>uni0449</string>
+		<string>uni044C</string>
+		<string>uni044B</string>
+		<string>uni044A</string>
+		<string>uni044D</string>
+		<string>uni044E</string>
+		<string>uni044F</string>
 		<string>zero</string>
 		<string>one</string>
 		<string>two</string>
@@ -354,6 +418,7 @@
 		<string>one.osf.001</string>
 		<string>zero.osf.002</string>
 		<string>uni205F</string>
+		<string>.notdef</string>
 		<string>uni2001</string>
 		<string>uni2003</string>
 		<string>uni2000</string>
@@ -459,6 +524,8 @@
 		<string>arrowupdn</string>
 		<string>uni25CC</string>
 		<string>lozenge</string>
+		<string>uni0306.cy</string>
+		<string>uni0306.cy.case</string>
 		<string>uni0308</string>
 		<string>uni0307</string>
 		<string>gravecomb</string>
@@ -488,6 +555,17 @@
 		<string>macron</string>
 		<string>cedilla</string>
 		<string>ogonek</string>
+		<string>uni0308.case</string>
+		<string>uni0307.case</string>
+		<string>gravecomb.case</string>
+		<string>acutecomb.case</string>
+		<string>uni030B.case</string>
+		<string>uni0302.case</string>
+		<string>uni030C.case</string>
+		<string>uni0306.case</string>
+		<string>uni030A.case</string>
+		<string>tildecomb.case</string>
+		<string>uni0304.case</string>
 	</array>
 </dict>
 </plist>

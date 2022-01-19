@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0446" format="2">
+	<advance width="585"/>
+	<unicode hex="0446"/>
+	<outline>
+		<contour>
+			<point x="50" y="0" type="line"/>
+			<point x="132" y="0" type="line"/>
+			<point x="132" y="500" type="line"/>
+			<point x="50" y="500" type="line"/>
+		</contour>
+		<contour>
+			<point x="387" y="0" type="line"/>
+			<point x="469" y="0" type="line"/>
+			<point x="469" y="500" type="line"/>
+			<point x="387" y="500" type="line"/>
+		</contour>
+		<contour>
+			<point x="82" y="68" type="line"/>
+			<point x="82" y="0" type="line"/>
+			<point x="575" y="0" type="line"/>
+			<point x="575" y="68" type="line"/>
+		</contour>
+		<contour>
+			<point x="506" y="-89" type="line"/>
+			<point x="575" y="-89" type="line"/>
+			<point x="575" y="48" type="line"/>
+			<point x="506" y="48" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>i</string>
+		</dict>
+	</lib>
+</glyph>

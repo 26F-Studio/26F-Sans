@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0416" format="2">
+	<advance width="916"/>
+	<unicode hex="0416"/>
+	<outline>
+		<contour>
+			<point x="425" y="680" type="line"/>
+			<point x="425" y="0" type="line"/>
+			<point x="510" y="0" type="line"/>
+			<point x="510" y="680" type="line"/>
+		</contour>
+		<contour>
+			<point x="803" y="678" type="line"/>
+			<point x="533" y="349" type="line"/>
+			<point x="628" y="349" type="line"/>
+			<point x="905" y="678" type="line"/>
+		</contour>
+		<contour>
+			<point x="803" y="0" type="line"/>
+			<point x="905" y="0" type="line"/>
+			<point x="628" y="349" type="line"/>
+			<point x="533" y="349" type="line"/>
+		</contour>
+		<contour>
+			<point x="336" y="313" type="line"/>
+			<point x="599" y="313" type="line"/>
+			<point x="599" y="385" type="line"/>
+			<point x="336" y="385" type="line"/>
+		</contour>
+		<contour>
+			<point x="132" y="678" type="line"/>
+			<point x="30" y="678" type="line"/>
+			<point x="307" y="349" type="line"/>
+			<point x="402" y="349" type="line"/>
+		</contour>
+		<contour>
+			<point x="132" y="0" type="line"/>
+			<point x="402" y="349" type="line"/>
+			<point x="307" y="349" type="line"/>
+			<point x="30" y="0" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>=|k</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>K</string>
+		</dict>
+	</lib>
+</glyph>

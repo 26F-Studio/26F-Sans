@@ -2,10 +2,16 @@
 <glyph name="d" format="2">
 	<advance width="543"/>
 	<unicode hex="0064"/>
+	<anchor x="272" y="0" name="bottom"/>
+	<anchor x="272" y="250" name="center"/>
+	<anchor x="272" y="700" name="top"/>
+	<anchor x="324" y="700" name="topright"/>
 	<outline>
 		<contour>
 			<point x="493" y="0" type="line"/>
-			<point x="411" y="0" type="line"/>
+			<point x="415" y="0" type="line"/>
+			<point x="415" y="175" type="line"/>
+			<point x="411" y="180" type="line"/>
 			<point x="411" y="700" type="line"/>
 			<point x="493" y="700" type="line"/>
 		</contour>
