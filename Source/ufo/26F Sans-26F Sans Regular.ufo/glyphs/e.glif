@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="e" format="2">
-	<advance width="511"/>
+	<advance width="505"/>
 	<unicode hex="0065"/>
 	<anchor x="259" y="0" name="bottom"/>
 	<anchor x="387" y="67" name="ogonek"/>
@@ -45,8 +45,6 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>o</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
 			<string>o</string>
 		</dict>
 	</lib>

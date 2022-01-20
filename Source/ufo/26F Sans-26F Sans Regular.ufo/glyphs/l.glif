@@ -17,9 +17,9 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>i</string>
+			<string>n</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>i</string>
+			<string>n</string>
 		</dict>
 	</lib>
 </glyph>

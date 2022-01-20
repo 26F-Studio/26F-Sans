@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01CD" format="2">
-	<advance width="633"/>
+	<advance width="651"/>
 	<unicode hex="01CD"/>
 	<outline>
+		<component base="A"/>
+		<component base="uni030C.case" xOffset="75"/>
 	</outline>
 </glyph>
