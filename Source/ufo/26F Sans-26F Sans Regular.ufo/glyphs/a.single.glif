@@ -39,6 +39,8 @@
 	</outline>
 	<lib>
 		<dict>
+			<key>KernOnName</key>
+			<string>a.single</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>d</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

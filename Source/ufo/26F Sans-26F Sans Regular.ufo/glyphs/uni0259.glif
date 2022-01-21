@@ -41,6 +41,8 @@
 	</outline>
 	<lib>
 		<dict>
+			<key>KernOnName</key>
+			<string>schwa</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>=|e</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

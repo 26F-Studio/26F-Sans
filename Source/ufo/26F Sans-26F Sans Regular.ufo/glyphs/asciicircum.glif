@@ -16,6 +16,13 @@
 	</outline>
 	<lib>
 		<dict>
+			<key>KernOnSpecialSpacing</key>
+			<dict>
+				<key>L</key>
+				<string>math</string>
+				<key>R</key>
+				<string>math</string>
+			</dict>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>x</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

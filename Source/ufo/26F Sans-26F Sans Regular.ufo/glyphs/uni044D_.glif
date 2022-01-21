@@ -40,6 +40,8 @@
 	</outline>
 	<lib>
 		<dict>
+			<key>KernOnName</key>
+			<string>ereversed-cy</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>=|c</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

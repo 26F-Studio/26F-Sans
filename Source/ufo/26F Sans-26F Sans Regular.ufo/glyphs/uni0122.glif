@@ -6,4 +6,10 @@
 		<component base="G"/>
 		<component base="uni0326" xOffset="87"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>Gcommaaccent</string>
+		</dict>
+	</lib>
 </glyph>

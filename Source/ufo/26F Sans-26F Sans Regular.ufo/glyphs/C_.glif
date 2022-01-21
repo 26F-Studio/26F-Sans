@@ -36,6 +36,8 @@
 	</outline>
 	<lib>
 		<dict>
+			<key>KernOnName</key>
+			<string>C</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>O</string>
 		</dict>

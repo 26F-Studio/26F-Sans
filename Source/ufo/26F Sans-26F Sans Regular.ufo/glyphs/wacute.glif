@@ -6,4 +6,10 @@
 		<component base="w"/>
 		<component base="acutecomb" xOffset="132"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>wacute</string>
+		</dict>
+	</lib>
 </glyph>

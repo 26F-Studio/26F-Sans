@@ -6,4 +6,10 @@
 		<component base="Y"/>
 		<component base="gravecomb.case" xOffset="61"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>Ygrave</string>
+		</dict>
+	</lib>
 </glyph>

@@ -16,4 +16,10 @@
 			<point x="277" y="500" type="line"/>
 		</contour>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>te-cy</string>
+		</dict>
+	</lib>
 </glyph>

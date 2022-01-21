@@ -6,4 +6,10 @@
 		<component base="a"/>
 		<component base="acutecomb" xOffset="3" yOffset="8"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>aacute</string>
+		</dict>
+	</lib>
 </glyph>

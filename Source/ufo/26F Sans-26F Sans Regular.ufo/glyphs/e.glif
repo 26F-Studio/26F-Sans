@@ -44,6 +44,8 @@
 	</outline>
 	<lib>
 		<dict>
+			<key>KernOnName</key>
+			<string>e</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>o</string>
 		</dict>

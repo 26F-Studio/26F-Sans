@@ -6,4 +6,10 @@
 		<component base="U"/>
 		<component base="uni0302.case" xOffset="73"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>Ucircumflex</string>
+		</dict>
+	</lib>
 </glyph>

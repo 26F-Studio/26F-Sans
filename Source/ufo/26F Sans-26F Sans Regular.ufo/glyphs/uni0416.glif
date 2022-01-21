@@ -42,6 +42,8 @@
 	</outline>
 	<lib>
 		<dict>
+			<key>KernOnName</key>
+			<string>Zhe-cy</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>=|k</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

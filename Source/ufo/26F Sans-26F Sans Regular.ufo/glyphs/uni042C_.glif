@@ -30,6 +30,8 @@
 	</outline>
 	<lib>
 		<dict>
+			<key>KernOnName</key>
+			<string>Softsign-cy</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>B</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

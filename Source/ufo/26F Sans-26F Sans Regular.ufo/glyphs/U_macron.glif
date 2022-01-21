@@ -6,4 +6,10 @@
 		<component base="U"/>
 		<component base="uni0304.case" xOffset="73"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>Umacron</string>
+		</dict>
+	</lib>
 </glyph>

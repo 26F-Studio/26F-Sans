@@ -75,6 +75,8 @@
 	</outline>
 	<lib>
 		<dict>
+			<key>KernOnName</key>
+			<string>ae</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>a</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

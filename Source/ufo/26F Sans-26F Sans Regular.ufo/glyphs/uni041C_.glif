@@ -5,4 +5,10 @@
 	<outline>
 		<component base="M"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>Em-cy</string>
+		</dict>
+	</lib>
 </glyph>

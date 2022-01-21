@@ -46,6 +46,8 @@
 	</outline>
 	<lib>
 		<dict>
+			<key>KernOnName</key>
+			<string>d</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>q</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

@@ -11,4 +11,10 @@
 			<point x="510" y="503" type="line"/>
 		</contour>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>oslash</string>
+		</dict>
+	</lib>
 </glyph>

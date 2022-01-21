@@ -26,4 +26,15 @@
 			<point x="505" y="270"/>
 		</contour>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnSpecialSpacing</key>
+			<dict>
+				<key>L</key>
+				<string>math</string>
+				<key>R</key>
+				<string>math</string>
+			</dict>
+		</dict>
+	</lib>
 </glyph>

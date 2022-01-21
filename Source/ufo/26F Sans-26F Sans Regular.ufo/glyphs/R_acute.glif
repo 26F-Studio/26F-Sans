@@ -6,4 +6,10 @@
 		<component base="R"/>
 		<component base="acutecomb.case" xOffset="38"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>Racute</string>
+		</dict>
+	</lib>
 </glyph>

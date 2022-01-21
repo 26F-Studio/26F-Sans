@@ -36,6 +36,8 @@
 	</outline>
 	<lib>
 		<dict>
+			<key>KernOnName</key>
+			<string>ya-cy</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>x</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

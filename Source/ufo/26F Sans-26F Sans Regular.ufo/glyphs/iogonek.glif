@@ -7,4 +7,10 @@
 		<component base="uni0307" xOffset="-159"/>
 		<component base="uni0328" xOffset="-162" yOffset="-37"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>iogonek</string>
+		</dict>
+	</lib>
 </glyph>

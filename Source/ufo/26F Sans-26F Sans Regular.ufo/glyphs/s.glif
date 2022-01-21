@@ -40,4 +40,10 @@
 			<point x="111" y="97"/>
 		</contour>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>s</string>
+		</dict>
+	</lib>
 </glyph>

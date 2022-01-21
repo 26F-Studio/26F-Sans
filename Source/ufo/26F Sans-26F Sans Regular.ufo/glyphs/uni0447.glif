@@ -30,6 +30,8 @@
 	</outline>
 	<lib>
 		<dict>
+			<key>KernOnName</key>
+			<string>che-cy</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>n</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

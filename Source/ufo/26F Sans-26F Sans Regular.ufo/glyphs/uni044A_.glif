@@ -36,6 +36,8 @@
 	</outline>
 	<lib>
 		<dict>
+			<key>KernOnName</key>
+			<string>hardsign-cy</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
 			<string>o</string>
 		</dict>

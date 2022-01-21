@@ -6,4 +6,10 @@
 		<component base="y"/>
 		<component base="uni0302" xOffset="7"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>ycircumflex</string>
+		</dict>
+	</lib>
 </glyph>

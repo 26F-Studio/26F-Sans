@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="g.double" format="2">
 	<advance width="521"/>
+	<anchor x="261" y="506" name="top"/>
+	<anchor x="261" y="-192" name="bottom"/>
 	<outline>
 		<contour>
 			<point x="250" y="507" type="curve" smooth="yes"/>
@@ -81,4 +83,10 @@
 			<point x="498" y="435" type="line"/>
 		</contour>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>g.double</string>
+		</dict>
+	</lib>
 </glyph>

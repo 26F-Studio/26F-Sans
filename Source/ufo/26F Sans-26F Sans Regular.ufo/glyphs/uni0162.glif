@@ -6,4 +6,10 @@
 		<component base="T"/>
 		<component base="uni0327" xOffset="59" yOffset="5"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>Tcedilla</string>
+		</dict>
+	</lib>
 </glyph>

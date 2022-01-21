@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2197" format="2">
-	<advance width="600"/>
+	<advance width="740"/>
 	<unicode hex="2197"/>
 	<outline>
+		<contour>
+			<point x="605" y="580" type="line"/>
+			<point x="199" y="581" type="line"/>
+			<point x="199" y="507" type="line"/>
+			<point x="478" y="507" type="line"/>
+			<point x="98" y="126" type="line"/>
+			<point x="150" y="74" type="line"/>
+			<point x="532" y="456" type="line"/>
+			<point x="532" y="174" type="line"/>
+			<point x="605" y="174" type="line"/>
+		</contour>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnSpecialSpacing</key>
+			<dict>
+				<key>L</key>
+				<string>NoKerning</string>
+				<key>R</key>
+				<string>NoKerning</string>
+			</dict>
+		</dict>
+	</lib>
 </glyph>

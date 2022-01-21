@@ -40,6 +40,8 @@
 	</outline>
 	<lib>
 		<dict>
+			<key>KernOnName</key>
+			<string>thorn</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>b</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

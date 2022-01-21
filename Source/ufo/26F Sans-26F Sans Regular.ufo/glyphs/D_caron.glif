@@ -6,4 +6,10 @@
 		<component base="D"/>
 		<component base="uni030C.case" xOffset="64"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>Dcaron</string>
+		</dict>
+	</lib>
 </glyph>

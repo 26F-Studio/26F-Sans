@@ -56,4 +56,15 @@
 			<point x="153" y="116"/>
 		</contour>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnSpecialSpacing</key>
+			<dict>
+				<key>L</key>
+				<string>symbols</string>
+				<key>R</key>
+				<string>symbols</string>
+			</dict>
+		</dict>
+	</lib>
 </glyph>

@@ -6,4 +6,10 @@
 		<component base="dotlessi"/>
 		<component base="acutecomb" xOffset="-159"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>iacute</string>
+		</dict>
+	</lib>
 </glyph>

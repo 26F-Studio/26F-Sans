@@ -23,6 +23,8 @@
 	</outline>
 	<lib>
 		<dict>
+			<key>KernOnName</key>
+			<string>w</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>v</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

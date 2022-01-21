@@ -6,4 +6,10 @@
 		<component base="dotlessi"/>
 		<component base="gravecomb" xOffset="-159"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>igrave</string>
+		</dict>
+	</lib>
 </glyph>

@@ -20,6 +20,8 @@
 	</outline>
 	<lib>
 		<dict>
+			<key>KernOnName</key>
+			<string>v</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>x</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

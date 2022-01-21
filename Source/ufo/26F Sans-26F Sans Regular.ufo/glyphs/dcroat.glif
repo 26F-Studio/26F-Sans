@@ -13,6 +13,8 @@
 	</outline>
 	<lib>
 		<dict>
+			<key>KernOnName</key>
+			<string>dcroat</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>d</string>
 		</dict>

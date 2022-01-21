@@ -10,4 +10,15 @@
 			<point x="153" y="98" type="line"/>
 		</contour>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnSpecialSpacing</key>
+			<dict>
+				<key>L</key>
+				<string>period</string>
+				<key>R</key>
+				<string>period</string>
+			</dict>
+		</dict>
+	</lib>
 </glyph>

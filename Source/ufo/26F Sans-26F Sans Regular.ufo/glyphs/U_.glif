@@ -30,6 +30,8 @@
 	</outline>
 	<lib>
 		<dict>
+			<key>KernOnName</key>
+			<string>U</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>N</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

@@ -34,4 +34,13 @@
 			<point x="309" y="640" type="line"/>
 		</contour>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnSpecialSpacing</key>
+			<dict>
+				<key>L</key>
+				<string>superiors</string>
+			</dict>
+		</dict>
+	</lib>
 </glyph>

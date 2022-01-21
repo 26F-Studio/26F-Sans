@@ -6,4 +6,10 @@
 		<component base="O"/>
 		<component base="uni0308.case" xOffset="98" yOffset="15"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>Odieresis</string>
+		</dict>
+	</lib>
 </glyph>

@@ -6,4 +6,10 @@
 		<component base="E"/>
 		<component base="tildecomb.case" xOffset="34"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>Etilde</string>
+		</dict>
+	</lib>
 </glyph>

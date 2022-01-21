@@ -84,4 +84,13 @@
 			<point x="254" y="211"/>
 		</contour>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnSpecialSpacing</key>
+			<dict>
+				<key>L</key>
+				<string>parenthesis</string>
+			</dict>
+		</dict>
+	</lib>
 </glyph>

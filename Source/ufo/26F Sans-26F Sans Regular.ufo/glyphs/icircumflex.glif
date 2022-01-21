@@ -6,4 +6,10 @@
 		<component base="dotlessi"/>
 		<component base="uni0302" xOffset="-159"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>icircumflex</string>
+		</dict>
+	</lib>
 </glyph>

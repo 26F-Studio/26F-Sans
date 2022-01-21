@@ -18,6 +18,8 @@
 	</outline>
 	<lib>
 		<dict>
+			<key>KernOnName</key>
+			<string>Ge-cy</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>T</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

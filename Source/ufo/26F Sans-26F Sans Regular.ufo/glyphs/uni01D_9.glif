@@ -7,4 +7,10 @@
 		<component base="uni0308.case" xOffset="73"/>
 		<component base="uni030C.case" xOffset="73" yOffset="188"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>Udieresiscaron</string>
+		</dict>
+	</lib>
 </glyph>

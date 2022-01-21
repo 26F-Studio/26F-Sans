@@ -6,4 +6,10 @@
 		<component base="t"/>
 		<component base="uni0326" xOffset="-71"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>tcommaaccent</string>
+		</dict>
+	</lib>
 </glyph>

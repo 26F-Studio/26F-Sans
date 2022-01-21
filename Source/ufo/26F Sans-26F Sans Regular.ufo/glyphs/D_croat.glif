@@ -5,4 +5,10 @@
 	<outline>
 		<component base="Eth"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>Dcroat</string>
+		</dict>
+	</lib>
 </glyph>

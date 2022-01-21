@@ -6,4 +6,10 @@
 		<component base="E"/>
 		<component base="uni0304.case" xOffset="34"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>Emacron</string>
+		</dict>
+	</lib>
 </glyph>

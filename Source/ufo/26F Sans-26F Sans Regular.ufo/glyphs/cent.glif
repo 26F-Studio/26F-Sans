@@ -1,7 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cent" format="2">
-	<advance width="507"/>
+	<advance width="493"/>
 	<unicode hex="00A2"/>
 	<outline>
+		<component base="c" yOffset="86"/>
+		<contour>
+			<point x="220" y="549" type="line"/>
+			<point x="294" y="549" type="line"/>
+			<point x="294" y="680" type="line"/>
+			<point x="220" y="680" type="line"/>
+		</contour>
+		<contour>
+			<point x="228" y="113" type="line"/>
+			<point x="286" y="113" type="line"/>
+			<point x="286" y="549" type="line"/>
+			<point x="228" y="549" type="line"/>
+		</contour>
+		<contour>
+			<point x="294" y="113" type="line"/>
+			<point x="220" y="113" type="line"/>
+			<point x="220" y="0" type="line"/>
+			<point x="294" y="0" type="line"/>
+		</contour>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnSpecialSpacing</key>
+			<dict>
+				<key>L</key>
+				<string>symbols</string>
+				<key>R</key>
+				<string>symbols</string>
+			</dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>c</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>c</string>
+		</dict>
+	</lib>
 </glyph>

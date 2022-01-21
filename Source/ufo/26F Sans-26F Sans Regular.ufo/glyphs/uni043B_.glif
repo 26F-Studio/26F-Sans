@@ -30,6 +30,8 @@
 	</outline>
 	<lib>
 		<dict>
+			<key>KernOnName</key>
+			<string>el-cy</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
 			<string>i</string>
 		</dict>

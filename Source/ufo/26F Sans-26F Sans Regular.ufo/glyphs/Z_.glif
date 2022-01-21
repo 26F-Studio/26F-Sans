@@ -23,6 +23,8 @@
 	</outline>
 	<lib>
 		<dict>
+			<key>KernOnName</key>
+			<string>Z</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>=z+5</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

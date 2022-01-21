@@ -24,4 +24,13 @@
 			<point x="132" y="88"/>
 		</contour>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnSpecialSpacing</key>
+			<dict>
+				<key>L</key>
+				<string>spaced-off</string>
+			</dict>
+		</dict>
+	</lib>
 </glyph>

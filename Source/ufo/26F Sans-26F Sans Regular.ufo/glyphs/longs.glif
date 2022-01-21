@@ -24,6 +24,8 @@
 	</outline>
 	<lib>
 		<dict>
+			<key>KernOnName</key>
+			<string>longs</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>l</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

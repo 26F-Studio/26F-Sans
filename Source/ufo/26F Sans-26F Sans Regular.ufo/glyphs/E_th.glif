@@ -13,6 +13,8 @@
 	</outline>
 	<lib>
 		<dict>
+			<key>KernOnName</key>
+			<string>Eth</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
 			<string>D</string>
 		</dict>

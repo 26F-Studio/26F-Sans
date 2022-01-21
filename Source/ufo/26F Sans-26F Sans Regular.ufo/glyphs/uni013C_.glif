@@ -6,4 +6,10 @@
 		<component base="l"/>
 		<component base="uni0326" xOffset="-157"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>lcommaaccent</string>
+		</dict>
+	</lib>
 </glyph>

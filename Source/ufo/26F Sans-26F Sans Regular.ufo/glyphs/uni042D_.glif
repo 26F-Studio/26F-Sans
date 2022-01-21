@@ -13,6 +13,8 @@
 	</outline>
 	<lib>
 		<dict>
+			<key>KernOnName</key>
+			<string>Ereversed-cy</string>
 			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
 			<array>
 				<dict>

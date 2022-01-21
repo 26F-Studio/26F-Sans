@@ -19,4 +19,10 @@
 		</contour>
 		<component base="uni0237"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>j</string>
+		</dict>
+	</lib>
 </glyph>

@@ -7,6 +7,11 @@
 	</outline>
 	<lib>
 		<dict>
+			<key>KernOnSpecialSpacing</key>
+			<dict>
+				<key>R</key>
+				<string>spaced-off</string>
+			</dict>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>=|question</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

@@ -6,4 +6,10 @@
 		<component base="I"/>
 		<component base="gravecomb.case" xOffset="-152"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>Igrave</string>
+		</dict>
+	</lib>
 </glyph>

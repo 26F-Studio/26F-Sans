@@ -1,7 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="degree" format="2">
-	<advance width="600"/>
+	<advance width="216"/>
 	<unicode hex="00B0"/>
 	<outline>
+		<contour>
+			<point x="108" y="500" type="curve" smooth="yes"/>
+			<point x="162" y="500"/>
+			<point x="206" y="544"/>
+			<point x="206" y="598" type="curve" smooth="yes"/>
+			<point x="206" y="652"/>
+			<point x="162" y="696"/>
+			<point x="108" y="696" type="curve" smooth="yes"/>
+			<point x="54" y="696"/>
+			<point x="10" y="652"/>
+			<point x="10" y="598" type="curve" smooth="yes"/>
+			<point x="10" y="544"/>
+			<point x="54" y="500"/>
+		</contour>
+		<contour>
+			<point x="108" y="542" type="curve" smooth="yes"/>
+			<point x="77" y="542"/>
+			<point x="52" y="567"/>
+			<point x="52" y="598" type="curve" smooth="yes"/>
+			<point x="52" y="629"/>
+			<point x="77" y="654"/>
+			<point x="108" y="654" type="curve" smooth="yes"/>
+			<point x="139" y="654"/>
+			<point x="164" y="629"/>
+			<point x="164" y="598" type="curve" smooth="yes"/>
+			<point x="164" y="567"/>
+			<point x="139" y="542"/>
+		</contour>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnSpecialSpacing</key>
+			<dict>
+				<key>L</key>
+				<string>superiors</string>
+			</dict>
+		</dict>
+	</lib>
 </glyph>

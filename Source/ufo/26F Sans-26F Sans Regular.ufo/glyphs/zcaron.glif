@@ -6,4 +6,10 @@
 		<component base="z"/>
 		<component base="uni030C" xOffset="-5"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>zcaron</string>
+		</dict>
+	</lib>
 </glyph>

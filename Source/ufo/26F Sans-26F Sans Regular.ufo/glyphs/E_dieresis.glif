@@ -6,4 +6,10 @@
 		<component base="E"/>
 		<component base="uni0308.case" xOffset="34"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>Edieresis</string>
+		</dict>
+	</lib>
 </glyph>

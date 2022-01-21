@@ -6,4 +6,10 @@
 		<component base="C"/>
 		<component base="acutecomb.case" xOffset="90" yOffset="15"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>Cacute</string>
+		</dict>
+	</lib>
 </glyph>

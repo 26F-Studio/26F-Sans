@@ -19,6 +19,13 @@
 	</outline>
 	<lib>
 		<dict>
+			<key>KernOnSpecialSpacing</key>
+			<dict>
+				<key>L</key>
+				<string>symbols</string>
+				<key>R</key>
+				<string>symbols</string>
+			</dict>
 			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
 			<array>
 				<dict>

@@ -31,6 +31,8 @@
 	</outline>
 	<lib>
 		<dict>
+			<key>KernOnName</key>
+			<string>Yeru-cy</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>I</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

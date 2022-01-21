@@ -6,4 +6,10 @@
 		<component base="J"/>
 		<component base="uni0302.case" xOffset="157"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>Jcircumflex</string>
+		</dict>
+	</lib>
 </glyph>

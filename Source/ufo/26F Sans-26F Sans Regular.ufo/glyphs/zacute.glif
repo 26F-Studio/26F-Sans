@@ -6,4 +6,10 @@
 		<component base="z"/>
 		<component base="acutecomb" xOffset="-5"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>zacute</string>
+		</dict>
+	</lib>
 </glyph>

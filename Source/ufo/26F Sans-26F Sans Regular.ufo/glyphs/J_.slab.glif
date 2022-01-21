@@ -29,6 +29,8 @@
 	</outline>
 	<lib>
 		<dict>
+			<key>KernOnName</key>
+			<string>J.slab</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
 			<string>n</string>
 		</dict>

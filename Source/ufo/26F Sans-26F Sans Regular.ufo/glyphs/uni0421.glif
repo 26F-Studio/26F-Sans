@@ -5,4 +5,10 @@
 	<outline>
 		<component base="C"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>Es-cy</string>
+		</dict>
+	</lib>
 </glyph>

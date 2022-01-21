@@ -22,6 +22,8 @@
 	</outline>
 	<lib>
 		<dict>
+			<key>KernOnName</key>
+			<string>jdotless</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>j</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

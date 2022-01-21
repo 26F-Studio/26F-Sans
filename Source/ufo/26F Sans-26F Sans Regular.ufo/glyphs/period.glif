@@ -18,4 +18,15 @@
 			<point x="51" y="-10"/>
 		</contour>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnSpecialSpacing</key>
+			<dict>
+				<key>L</key>
+				<string>period</string>
+				<key>R</key>
+				<string>period</string>
+			</dict>
+		</dict>
+	</lib>
 </glyph>

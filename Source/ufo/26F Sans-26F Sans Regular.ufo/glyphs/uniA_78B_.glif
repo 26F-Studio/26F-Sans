@@ -5,4 +5,10 @@
 	<outline>
 		<component base="quotesingle" yScale="1.7284" yOffset="-495"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>Saltillo</string>
+		</dict>
+	</lib>
 </glyph>

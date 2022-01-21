@@ -6,4 +6,10 @@
 		<component base="N"/>
 		<component base="uni030C.case" xOffset="76"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>Ncaron</string>
+		</dict>
+	</lib>
 </glyph>

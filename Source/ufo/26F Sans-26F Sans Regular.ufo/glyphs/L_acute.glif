@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lacute" format="2">
-	<advance width="520"/>
+	<advance width="518"/>
 	<unicode hex="0139"/>
 	<outline>
 		<component base="L"/>
 		<component base="acutecomb.case" xOffset="-154"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>Lacute</string>
+		</dict>
+	</lib>
 </glyph>

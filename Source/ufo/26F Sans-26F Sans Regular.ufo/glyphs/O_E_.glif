@@ -58,6 +58,8 @@
 	</outline>
 	<lib>
 		<dict>
+			<key>KernOnName</key>
+			<string>OE</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>O</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

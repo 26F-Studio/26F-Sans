@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ij" format="2">
-	<advance width="363"/>
+	<advance width="365"/>
 	<unicode hex="0133"/>
 	<outline>
 		<component base="i"/>
-		<component base="j" xOffset="182"/>
+		<component base="j" xOffset="184"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>ij</string>
+		</dict>
+	</lib>
 </glyph>

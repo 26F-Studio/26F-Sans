@@ -6,4 +6,10 @@
 		<component base="U"/>
 		<component base="uni0328" xOffset="64" yOffset="-51"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>Uogonek</string>
+		</dict>
+	</lib>
 </glyph>

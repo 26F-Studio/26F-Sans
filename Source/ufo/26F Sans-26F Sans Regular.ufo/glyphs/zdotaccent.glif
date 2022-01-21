@@ -6,4 +6,10 @@
 		<component base="z"/>
 		<component base="uni0307" xOffset="-5"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>zdotaccent</string>
+		</dict>
+	</lib>
 </glyph>

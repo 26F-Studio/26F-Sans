@@ -21,4 +21,10 @@
 			<point x="40" y="72" type="line"/>
 		</contour>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>I.slab</string>
+		</dict>
+	</lib>
 </glyph>

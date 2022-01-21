@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lslash" format="2">
-	<advance width="580"/>
+	<advance width="578"/>
 	<unicode hex="0141"/>
 	<outline>
 		<component base="L" xOffset="60"/>
@@ -13,6 +13,8 @@
 	</outline>
 	<lib>
 		<dict>
+			<key>KernOnName</key>
+			<string>Lslash</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
 			<string>L</string>
 		</dict>

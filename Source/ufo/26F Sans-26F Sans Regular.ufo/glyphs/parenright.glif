@@ -16,6 +16,13 @@
 	</outline>
 	<lib>
 		<dict>
+			<key>KernOnName</key>
+			<string>parenright</string>
+			<key>KernOnSpecialSpacing</key>
+			<dict>
+				<key>L</key>
+				<string>parenthesis</string>
+			</dict>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
 			<string>O</string>
 		</dict>

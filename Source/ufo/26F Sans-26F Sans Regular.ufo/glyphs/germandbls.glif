@@ -13,9 +13,9 @@
 			<point x="425" y="357"/>
 			<point x="349" y="372" type="curve"/>
 			<point x="419" y="385"/>
-			<point x="457" y="448"/>
-			<point x="457" y="519" type="curve" smooth="yes"/>
-			<point x="457" y="611"/>
+			<point x="455" y="448"/>
+			<point x="455" y="519" type="curve" smooth="yes"/>
+			<point x="455" y="611"/>
 			<point x="394" y="710"/>
 			<point x="250" y="710" type="curve" smooth="yes"/>
 			<point x="103" y="710"/>
@@ -28,9 +28,9 @@
 			<point x="165" y="640"/>
 			<point x="248" y="640" type="curve" smooth="yes"/>
 			<point x="340" y="640"/>
-			<point x="371" y="569"/>
-			<point x="371" y="514" type="curve" smooth="yes"/>
-			<point x="371" y="452"/>
+			<point x="369" y="569"/>
+			<point x="369" y="514" type="curve" smooth="yes"/>
+			<point x="369" y="452"/>
 			<point x="331" y="410"/>
 			<point x="243" y="410" type="curve"/>
 			<point x="243" y="340" type="line"/>
@@ -45,6 +45,8 @@
 	</outline>
 	<lib>
 		<dict>
+			<key>KernOnName</key>
+			<string>germandbls</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>n</string>
 		</dict>

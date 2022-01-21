@@ -6,4 +6,10 @@
 		<component base="E"/>
 		<component base="uni0307.case" xOffset="34"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>Edotaccent</string>
+		</dict>
+	</lib>
 </glyph>

@@ -6,4 +6,10 @@
 		<component base="N"/>
 		<component base="tildecomb.case" xOffset="76"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>Ntilde</string>
+		</dict>
+	</lib>
 </glyph>

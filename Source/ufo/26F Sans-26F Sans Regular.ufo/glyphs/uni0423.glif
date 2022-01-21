@@ -33,6 +33,8 @@
 	</outline>
 	<lib>
 		<dict>
+			<key>KernOnName</key>
+			<string>U-cy</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>Y</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

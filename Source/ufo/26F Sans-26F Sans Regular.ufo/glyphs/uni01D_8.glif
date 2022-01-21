@@ -7,4 +7,10 @@
 		<component base="uni0308" xOffset="6"/>
 		<component base="acutecomb" xOffset="6" yOffset="168"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>udieresisacute</string>
+		</dict>
+	</lib>
 </glyph>

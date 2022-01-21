@@ -26,6 +26,8 @@
 	</outline>
 	<lib>
 		<dict>
+			<key>KernOnName</key>
+			<string>J</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
 			<string>n</string>
 		</dict>

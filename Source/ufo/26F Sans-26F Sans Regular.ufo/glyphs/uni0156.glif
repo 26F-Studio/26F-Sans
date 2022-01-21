@@ -6,4 +6,10 @@
 		<component base="R"/>
 		<component base="uni0326" xOffset="44"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>Rcommaaccent</string>
+		</dict>
+	</lib>
 </glyph>

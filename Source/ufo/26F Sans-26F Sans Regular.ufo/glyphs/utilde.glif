@@ -6,4 +6,10 @@
 		<component base="u"/>
 		<component base="tildecomb" xOffset="6"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>utilde</string>
+		</dict>
+	</lib>
 </glyph>

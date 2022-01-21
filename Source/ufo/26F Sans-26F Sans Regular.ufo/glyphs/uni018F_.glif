@@ -44,4 +44,10 @@
 			<point x="136" y="364"/>
 		</contour>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>Schwa</string>
+		</dict>
+	</lib>
 </glyph>

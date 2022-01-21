@@ -6,4 +6,10 @@
 		<component base="C"/>
 		<component base="uni0307.case" xOffset="90" yOffset="15"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>Cdotaccent</string>
+		</dict>
+	</lib>
 </glyph>

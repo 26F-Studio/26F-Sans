@@ -6,4 +6,10 @@
 		<component base="A"/>
 		<component base="uni0306.case" xOffset="75"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>Abreve</string>
+		</dict>
+	</lib>
 </glyph>

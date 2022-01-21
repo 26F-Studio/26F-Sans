@@ -5,4 +5,15 @@
 	<outline>
 		<component base="period" xScale="2.009" yScale="2.009" xOffset="-20" yOffset="162"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnSpecialSpacing</key>
+			<dict>
+				<key>L</key>
+				<string>NoKerning</string>
+				<key>R</key>
+				<string>NoKerning</string>
+			</dict>
+		</dict>
+	</lib>
 </glyph>

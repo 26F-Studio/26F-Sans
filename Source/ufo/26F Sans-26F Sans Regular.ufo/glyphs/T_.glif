@@ -19,4 +19,10 @@
 			<point x="346" y="680" type="line"/>
 		</contour>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>T</string>
+		</dict>
+	</lib>
 </glyph>

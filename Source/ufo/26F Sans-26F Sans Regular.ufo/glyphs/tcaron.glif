@@ -6,4 +6,10 @@
 		<component base="t"/>
 		<component base="uni030C.alt" xOffset="129" yOffset="20"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>tcaron</string>
+		</dict>
+	</lib>
 </glyph>

@@ -5,4 +5,10 @@
 	<outline>
 		<component base="quotesingle"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>saltillo</string>
+		</dict>
+	</lib>
 </glyph>

@@ -6,4 +6,10 @@
 		<component base="w"/>
 		<component base="gravecomb" xOffset="132"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>wgrave</string>
+		</dict>
+	</lib>
 </glyph>

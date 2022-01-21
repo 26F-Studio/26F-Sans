@@ -6,4 +6,10 @@
 		<component base="U"/>
 		<component base="uni030B.case" xOffset="73"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>Uhungarumlaut</string>
+		</dict>
+	</lib>
 </glyph>

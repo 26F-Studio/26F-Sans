@@ -40,6 +40,8 @@
 	</outline>
 	<lib>
 		<dict>
+			<key>KernOnName</key>
+			<string>O</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>=o+5</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

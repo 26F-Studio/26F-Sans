@@ -24,6 +24,13 @@
 	</outline>
 	<lib>
 		<dict>
+			<key>KernOnSpecialSpacing</key>
+			<dict>
+				<key>L</key>
+				<string>parenthesis</string>
+				<key>R</key>
+				<string>NoKerning</string>
+			</dict>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
 			<string>n</string>
 		</dict>

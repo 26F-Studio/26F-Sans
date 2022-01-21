@@ -7,4 +7,10 @@
 		<component base="uni0308" xOffset="6"/>
 		<component base="uni0304" xOffset="6" yOffset="168"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>udieresismacron</string>
+		</dict>
+	</lib>
 </glyph>

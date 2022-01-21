@@ -42,6 +42,8 @@
 	</outline>
 	<lib>
 		<dict>
+			<key>KernOnName</key>
+			<string>S</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>=s+5</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

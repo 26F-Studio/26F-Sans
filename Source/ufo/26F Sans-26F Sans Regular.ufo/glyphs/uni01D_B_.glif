@@ -7,4 +7,10 @@
 		<component base="uni0308.case" xOffset="73"/>
 		<component base="gravecomb.case" xOffset="73" yOffset="188"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>Udieresisgrave</string>
+		</dict>
+	</lib>
 </glyph>

@@ -6,4 +6,10 @@
 		<component base="W"/>
 		<component base="uni0302.case" xOffset="203"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>Wcircumflex</string>
+		</dict>
+	</lib>
 </glyph>

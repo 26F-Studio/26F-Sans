@@ -6,4 +6,10 @@
 		<component base="uni0415"/>
 		<component base="uni0308.case" xOffset="34"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>Io-cy</string>
+		</dict>
+	</lib>
 </glyph>

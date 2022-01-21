@@ -49,6 +49,8 @@
 	</outline>
 	<lib>
 		<dict>
+			<key>KernOnName</key>
+			<string>Ze-cy</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
 			<string>O</string>
 		</dict>

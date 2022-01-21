@@ -12,16 +12,22 @@
 			<point x="113" y="500" type="line"/>
 		</contour>
 		<contour>
-			<point x="237" y="287" type="line"/>
+			<point x="240" y="287" type="line"/>
 			<point x="279" y="222" type="line"/>
 			<point x="473" y="500" type="line"/>
-			<point x="387" y="500" type="line"/>
+			<point x="390" y="500" type="line"/>
 		</contour>
 		<contour>
-			<point x="261" y="214" type="line"/>
+			<point x="258" y="214" type="line"/>
 			<point x="219" y="279" type="line"/>
 			<point x="24" y="0" type="line"/>
-			<point x="110" y="0" type="line"/>
+			<point x="107" y="0" type="line"/>
 		</contour>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>x</string>
+		</dict>
+	</lib>
 </glyph>

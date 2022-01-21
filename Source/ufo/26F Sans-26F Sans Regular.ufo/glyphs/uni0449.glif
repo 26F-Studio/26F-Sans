@@ -34,4 +34,10 @@
 			<point x="679" y="48" type="line"/>
 		</contour>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>shcha-cy</string>
+		</dict>
+	</lib>
 </glyph>

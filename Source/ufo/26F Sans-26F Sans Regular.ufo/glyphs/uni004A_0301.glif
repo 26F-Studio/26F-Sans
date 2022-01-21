@@ -5,4 +5,10 @@
 		<component base="J"/>
 		<component base="acutecomb.case" xOffset="157"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>Jacute</string>
+		</dict>
+	</lib>
 </glyph>

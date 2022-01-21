@@ -24,4 +24,10 @@
 			<point x="239" y="653"/>
 		</contour>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>f</string>
+		</dict>
+	</lib>
 </glyph>

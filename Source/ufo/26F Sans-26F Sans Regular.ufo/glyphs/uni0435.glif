@@ -6,4 +6,10 @@
 	<outline>
 		<component base="e"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>ie-cy</string>
+		</dict>
+	</lib>
 </glyph>

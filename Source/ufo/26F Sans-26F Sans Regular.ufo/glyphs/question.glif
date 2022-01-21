@@ -44,6 +44,11 @@
 	</outline>
 	<lib>
 		<dict>
+			<key>KernOnSpecialSpacing</key>
+			<dict>
+				<key>L</key>
+				<string>spaced-off</string>
+			</dict>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
 			<string>O</string>
 		</dict>

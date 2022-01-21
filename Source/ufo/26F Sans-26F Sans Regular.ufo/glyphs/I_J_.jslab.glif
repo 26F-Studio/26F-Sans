@@ -35,6 +35,8 @@
 	</outline>
 	<lib>
 		<dict>
+			<key>KernOnName</key>
+			<string>IJ.jslab</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>U</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

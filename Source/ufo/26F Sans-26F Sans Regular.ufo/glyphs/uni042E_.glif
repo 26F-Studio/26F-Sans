@@ -46,6 +46,8 @@
 	</outline>
 	<lib>
 		<dict>
+			<key>KernOnName</key>
+			<string>Yu-cy</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>I</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

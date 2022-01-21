@@ -11,4 +11,10 @@
 			<point x="20" y="606" type="line"/>
 		</contour>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>Hbar</string>
+		</dict>
+	</lib>
 </glyph>

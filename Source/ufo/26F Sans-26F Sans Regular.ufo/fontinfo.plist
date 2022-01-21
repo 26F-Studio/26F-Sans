@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>ascender</key>
-	<integer>700</integer>
+	<integer>900</integer>
 	<key>capHeight</key>
 	<integer>680</integer>
 	<key>copyright</key>
@@ -14,12 +14,123 @@
 	<string>26F Sans</string>
 	<key>openTypeHeadCreated</key>
 	<string>2021/12/18 02:09:22</string>
+	<key>openTypeHheaAscender</key>
+	<integer>900</integer>
+	<key>openTypeHheaDescender</key>
+	<integer>-200</integer>
 	<key>openTypeNameDesigner</key>
 	<string>C₂₉H₂₅N₃O₅</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>https://github.com/26F-Studio/26F-Sans</string>
 	<key>openTypeNameLicense</key>
 	<string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL. This Font Software is distributed on an ‘AS IS’ BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.</string>
 	<key>openTypeNameLicenseURL</key>
 	<string>http://scripts.sil.org/OFL</string>
+	<key>openTypeNameManufacturer</key>
+	<string>26F Studio</string>
+	<key>openTypeNameRecords</key>
+	<array>
+		<dict>
+			<key>encodingID</key>
+			<integer>1</integer>
+			<key>languageID</key>
+			<integer>1036</integer>
+			<key>nameID</key>
+			<integer>19</integer>
+			<key>platformID</key>
+			<integer>3</integer>
+			<key>string</key>
+			<string>Portez ce vieux whisky au juge blond qui fume. 0123456789</string>
+		</dict>
+		<dict>
+			<key>encodingID</key>
+			<integer>1</integer>
+			<key>languageID</key>
+			<integer>1031</integer>
+			<key>nameID</key>
+			<integer>19</integer>
+			<key>platformID</key>
+			<integer>3</integer>
+			<key>string</key>
+			<string>Victor jagt zwölf Boxkämpfer quer über den großen Sylter Deich. 0123456789</string>
+		</dict>
+		<dict>
+			<key>encodingID</key>
+			<integer>1</integer>
+			<key>languageID</key>
+			<integer>1040</integer>
+			<key>nameID</key>
+			<integer>19</integer>
+			<key>platformID</key>
+			<integer>3</integer>
+			<key>string</key>
+			<string>Pranzo d’acqua fa volti sghembi. 0123456789</string>
+		</dict>
+		<dict>
+			<key>encodingID</key>
+			<integer>1</integer>
+			<key>languageID</key>
+			<integer>1045</integer>
+			<key>nameID</key>
+			<integer>19</integer>
+			<key>platformID</key>
+			<integer>3</integer>
+			<key>string</key>
+			<string>Stróż pchnął kość w quiz gędźb vel fax myjń. 0123456789</string>
+		</dict>
+		<dict>
+			<key>encodingID</key>
+			<integer>1</integer>
+			<key>languageID</key>
+			<integer>3082</integer>
+			<key>nameID</key>
+			<integer>19</integer>
+			<key>platformID</key>
+			<integer>3</integer>
+			<key>string</key>
+			<string>Benjamín pidió una bebida de kiwi y fresa. Noé, sin vergüenza, la más exquisita champaña del menú. 0123456789</string>
+		</dict>
+		<dict>
+			<key>encodingID</key>
+			<integer>1</integer>
+			<key>languageID</key>
+			<integer>1055</integer>
+			<key>nameID</key>
+			<integer>19</integer>
+			<key>platformID</key>
+			<integer>3</integer>
+			<key>string</key>
+			<string>Pijamalı hasta yağız şoföre çabucak güvendi. 0123456789</string>
+		</dict>
+		<dict>
+			<key>encodingID</key>
+			<integer>1</integer>
+			<key>languageID</key>
+			<integer>1030</integer>
+			<key>nameID</key>
+			<integer>19</integer>
+			<key>platformID</key>
+			<integer>3</integer>
+			<key>string</key>
+			<string>Høj bly gom vandt fræk sexquiz på wc. 0123456789</string>
+		</dict>
+	</array>
+	<key>openTypeNameSampleText</key>
+	<string>Pack my box with five dozen liquor jugs. 0123456789</string>
+	<key>openTypeOS2StrikeoutPosition</key>
+	<integer>324</integer>
+	<key>openTypeOS2StrikeoutSize</key>
+	<integer>50</integer>
+	<key>openTypeOS2TypoAscender</key>
+	<integer>900</integer>
+	<key>openTypeOS2TypoDescender</key>
+	<integer>-200</integer>
+	<key>openTypeOS2TypoLineGap</key>
+	<integer>200</integer>
+	<key>openTypeOS2WinAscent</key>
+	<integer>900</integer>
+	<key>openTypeOS2WinDescent</key>
+	<integer>200</integer>
 	<key>postscriptBlueValues</key>
 	<array>
 		<real>-16.0</real>
@@ -28,8 +139,8 @@
 		<real>516.0</real>
 		<real>680.0</real>
 		<real>696.0</real>
-		<real>700.0</real>
-		<real>716.0</real>
+		<real>900.0</real>
+		<real>916.0</real>
 	</array>
 	<key>postscriptFontName</key>
 	<string>26FSans-Regular</string>
@@ -38,14 +149,22 @@
 		<real>-216.0</real>
 		<real>-200.0</real>
 	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+		<real>72.0</real>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+		<real>85.0</real>
+	</array>
 	<key>styleName</key>
 	<string>Regular</string>
 	<key>unitsPerEm</key>
 	<integer>900</integer>
 	<key>versionMajor</key>
-	<integer>0</integer>
+	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>5</integer>
+	<integer>0</integer>
 	<key>xHeight</key>
 	<integer>500</integer>
 </dict>

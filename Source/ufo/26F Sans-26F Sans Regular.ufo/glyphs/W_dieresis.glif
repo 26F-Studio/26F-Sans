@@ -6,4 +6,10 @@
 		<component base="W"/>
 		<component base="uni0308.case" xOffset="203"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>Wdieresis</string>
+		</dict>
+	</lib>
 </glyph>

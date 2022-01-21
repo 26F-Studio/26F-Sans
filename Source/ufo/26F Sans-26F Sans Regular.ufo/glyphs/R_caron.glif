@@ -6,4 +6,10 @@
 		<component base="R"/>
 		<component base="uni030C.case" xOffset="38"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>Rcaron</string>
+		</dict>
+	</lib>
 </glyph>

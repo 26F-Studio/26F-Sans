@@ -546,8 +546,8 @@
 	<string>one.base.glif</string>
 	<key>one.osf</key>
 	<string>one.osf.glif</string>
-	<key>one.osf.001</key>
-	<string>one.osf.001.glif</string>
+	<key>one.osf.base</key>
+	<string>one.osf.base.glif</string>
 	<key>oslash</key>
 	<string>oslash.glif</string>
 	<key>otilde</key>
@@ -1032,10 +1032,10 @@
 	<string>zero.dotted.glif</string>
 	<key>zero.osf</key>
 	<string>zero.osf.glif</string>
-	<key>zero.osf.001</key>
-	<string>zero.osf.001.glif</string>
-	<key>zero.osf.002</key>
-	<string>zero.osf.002.glif</string>
+	<key>zero.osf.dotted</key>
+	<string>zero.osf.dotted.glif</string>
+	<key>zero.osf.slashed</key>
+	<string>zero.osf.slashed.glif</string>
 	<key>zero.slashed</key>
 	<string>zero.slashed.glif</string>
 </dict>

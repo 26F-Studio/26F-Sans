@@ -6,4 +6,10 @@
 		<component base="o"/>
 		<component base="tildecomb" xOffset="13" yOffset="10"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>otilde</string>
+		</dict>
+	</lib>
 </glyph>

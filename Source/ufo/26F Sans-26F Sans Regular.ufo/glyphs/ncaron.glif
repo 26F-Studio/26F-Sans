@@ -6,4 +6,10 @@
 		<component base="n"/>
 		<component base="uni030C" xOffset="6" yOffset="5"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>ncaron</string>
+		</dict>
+	</lib>
 </glyph>

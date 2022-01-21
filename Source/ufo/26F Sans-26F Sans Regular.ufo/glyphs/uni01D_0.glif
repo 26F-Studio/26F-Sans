@@ -6,4 +6,10 @@
 		<component base="dotlessi"/>
 		<component base="uni030C" xOffset="-159"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>icaron</string>
+		</dict>
+	</lib>
 </glyph>

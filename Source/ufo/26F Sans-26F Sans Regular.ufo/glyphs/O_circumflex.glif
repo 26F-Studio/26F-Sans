@@ -6,4 +6,10 @@
 		<component base="O"/>
 		<component base="uni0302.case" xOffset="98" yOffset="15"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>KernOnName</key>
+			<string>Ocircumflex</string>
+		</dict>
+	</lib>
 </glyph>
