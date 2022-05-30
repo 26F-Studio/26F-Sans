@@ -1,5 +1,8 @@
 # 26F-Sans
 
+# NOTICE: THIS PROJECT IS NOW DEPRECATED AND WILL BE ARCHIVED. THIS IS THE LAST COMMIT OF THIS REPO.
+# 注意：该项目现已停止开发，并将被Archive。这是这个仓库的最后一次的提交。
+
 [点击这里来阅读简体中文版本 Click here for the Simplified Chinese Version](README_SC.md)
 
 The theme font for 26F Studio.
